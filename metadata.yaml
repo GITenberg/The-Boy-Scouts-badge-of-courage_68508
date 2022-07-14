@@ -1,0 +1,42 @@
+_repo: The-Boy-Scouts-badge-of-courage_68508
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Scott, A. O. (Arthur O.)
+    alias: Scott, Arthur O.
+    gutenberg_agent_id: '25205'
+    url: http://www.gutenberg.org/2009/agents/25205
+creator:
+  author:
+    agent_name: Goldfrap, John Henry
+    aliases:
+    - Lawton, Wilbur
+    - Dexter J. Forrester
+    - Forrester, Dexter J.
+    - Deering, Fremont B.
+    - Payson, Howard
+    - West, Marvin
+    - Lawton, Captain Wilbur
+    birthdate: 1879
+    deathdate: 1917
+    gutenberg_agent_id: '1974'
+    url: http://www.gutenberg.org/2009/agents/1974
+    wikipedia: https://en.wikipedia.org/wiki/John_Henry_Goldfrap
+description: ''
+gutenberg_issued: '2022-07-12'
+identifiers:
+  gutenberg: '68508'
+language: en
+pgterms:marc905: 20220522035908payson
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Roger Frank, Al Haines and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: United States :Hurst & Company, Inc.,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Boy Scouts' badge of courage
+url: http://www.gutenberg.org/ebooks/68508
