@@ -6,6 +6,9 @@ contributor:
     alias: Scott, Arthur O.
     gutenberg_agent_id: '25205'
     url: http://www.gutenberg.org/2009/agents/25205
+covers:
+- cover_type: archival
+  image_path: 68508-h/images/cover.jpg
 creator:
   author:
     agent_name: Goldfrap, John Henry
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1974
     wikipedia: https://en.wikipedia.org/wiki/John_Henry_Goldfrap
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68508#The-Boy-Scouts-badge-of-courage
 gutenberg_issued: '2022-07-12'
 identifiers:
   gutenberg: '68508'
